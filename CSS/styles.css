@@ -7,6 +7,9 @@ h1 {
 .top {
   background-color: #bfeaf5;
   margin: 0px;
+  text-align: center;
+  position: relative;
+  padding-top: 50px;
 }
 .middle {
   background-color: red;
@@ -20,4 +23,8 @@ h1 {
 }
 #pro {
   text-decoration: underline;
+}
+.topImage {
+  display: absolute;
+  right: 100px;
 }
