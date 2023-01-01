@@ -1,9 +1,19 @@
 body {
   margin: 0%;
+  text-align: center;
+  font-family: "Playfair Display", serif;
 }
 h1 {
+  font-family: "Courgette", cursive;
   margin-top: 0px;
 }
+h2 {
+  font-family: "Playfair Display", serif;
+}
+h3 {
+  font-family: "Playfair Display", serif;
+}
+
 .top {
   background-color: #bfeaf5;
   margin: 0px;
@@ -11,18 +21,12 @@ h1 {
   position: relative;
   padding-top: 50px;
 }
-.middle {
-  background-color: red;
-  height: 200px;
-  width: 200px;
-}
-.bottom {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
-}
+
 #pro {
   text-decoration: underline;
+}
+#profile {
+  border-radius: 100%;
 }
 .topImage {
   display: absolute;
