@@ -5,10 +5,12 @@ body {
 }
 h1 {
   font-family: "Courgette", cursive;
-  margin-top: 0px;
+  margin: 0px auto 0px auto;
+  font-size: 3.5rem;
 }
 h2 {
   font-family: "Playfair Display", serif;
+  font-size: 2rem;
 }
 h3 {
   font-family: "Playfair Display", serif;
@@ -25,7 +27,7 @@ h3 {
 #pro {
   text-decoration: underline;
 }
-#profile {
+.circular-img {
   border-radius: 100%;
 }
 .topImage {
