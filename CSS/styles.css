@@ -7,13 +7,21 @@ h1 {
   font-family: "Courgette", cursive;
   margin: 0px auto 0px auto;
   font-size: 3.5rem;
+  color: #3c79f5;
+  line-height: 2rem;
 }
 h2 {
   font-family: "Playfair Display", serif;
   font-size: 2rem;
+  color: #3c79f5;
+  font-weight: normal;
 }
 h3 {
   font-family: "Playfair Display", serif;
+  color: #11999e;
+}
+a {
+  color: #11999e;
 }
 
 .top {
