@@ -35,13 +35,14 @@ a {
 }
 a:hover {
   text-decoration: underline;
+  color: blue;
 }
 
 /**************************** Class Selector *******************************/
 
 .top {
   background-color: #bfeaf5;
-  margin: 0px;
+  margin-top: 0px;
   text-align: center;
   position: relative;
   padding-top: 50px;
@@ -84,6 +85,7 @@ a:hover {
 .skillImage {
   width: 35%;
   border-radius: 100%;
+  margin-top: 50px;
 }
 .contact-me {
   width: 50%;
