@@ -7,12 +7,12 @@ body {
 h1 {
   font-family: "Courgette", cursive;
   margin: 0px auto 0px auto;
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   color: #3c79f5;
 }
 h2 {
   font-family: "Playfair Display", serif;
-  font-size: 2rem;
+  font-size: 3rem;
   color: #3c79f5;
   font-weight: normal;
 }
@@ -139,6 +139,11 @@ a:hover {
   color: #eaf6f6;
   font-size: smaller;
   text-decoration: none;
+}
+.skillp,
+.contact-para,
+.profile {
+  font-size: larger;
 }
 
 /*********************************** ID Selector ************************/
